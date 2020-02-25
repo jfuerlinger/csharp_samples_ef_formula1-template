@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RaceTable season="2016">
+  <Race season="2016" round="1" url="https://en.wikipedia.org/wiki/2016_Australian_Grand_Prix">
+    <RaceName>Australian Grand Prix</RaceName>
+    <Circuit circuitId="albert_park" url="http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit">
+      <CircuitName>Albert Park Grand Prix Circuit</CircuitName>
+      <Location lat="-37.8497" long="144.968">
+        <Locality>Melbourne</Locality>
+        <Country>Australia</Country>
+      </Location>
+    </Circuit>
+    <Date>2016-03-20</Date>
+    <Time>05:00:00Z</Time>
+  </Race>
+  <Race season="2016" round="2" url="https://en.wikipedia.org/wiki/2016_Bahrain_Grand_Prix">
+    <RaceName>Bahrain Grand Prix</RaceName>
+    <Circuit circuitId="bahrain" url="http://en.wikipedia.org/wiki/Bahrain_International_Circuit">
+      <CircuitName>Bahrain International Circuit</CircuitName>
+      <Location lat="26.0325" long="50.5106">
+        <Locality>Sakhir</Locality>
+        <Country>Bahrain</Country>
+      </Location>
+    </Circuit>
+    <Date>2016-04-03</Date>
+    <Time>15:00:00Z</Time>
+  </Race>
+  <Race season="2016" round="3" url="https://en.wikipedia.org/wiki/2016_Chinese_Grand_Prix">
+    <RaceName>Chinese Grand Prix</RaceName>
+    <Circuit circuitId="shanghai" url="http://en.wikipedia.org/wiki/Shanghai_International_Circuit">
+      <CircuitName>Shanghai International Circuit</CircuitName>
+      <Location lat="31.3389" long="121.22">
+        <Locality>Shanghai</Locality>
+        <Country>China</Country>
+      </Location>
+    </Circuit>
+    <Date>2016-04-17</Date>
+    <Time>06:00:00Z</Time>
+  </Race>
+  <Race season="2016" round="4" url="https://en.wikipedia.org/wiki/2016_Russian_Grand_Prix">
+    <RaceName>Russian Grand Prix</RaceName>
+    <Circuit circuitId="sochi" url="http://en.wikipedia.org/wiki/Sochi_International_Street_Circuit">
+      <CircuitName>Sochi International Street Circuit</CircuitName>
+      <Location lat="43.4057" long="39.9578">
+        <Locality>Sochi</Locality>
+        <Country>Russia</Country>
+      </Location>
+    </Circuit>
+    <Date>2016-05-01</Date>
+    <Time>12:00:00Z</Time>
+  </Race>
+  <Race season="2016" round="5" url="https://en.wikipedia.org/wiki/2016_Spanish_Grand_Prix">
+    <RaceName>Spanish Grand Prix</RaceName>
+    <Circuit circuitId="catalunya" url="http://en.wikipedia.org/wiki/Circuit_de_Catalunya">
+      <CircuitName>Circuit de Catalunya</CircuitName>
+      <Location lat="41.57" long="2.26111">
+        <Locality>Montmeló</Locality>
+        <Country>Spain</Country>
+      </Location>
+    </Circuit>
+    <Date>2016-05-15</Date>
+    <Time>12:00:00Z</Time>
+  </Race>
+  <Race season="2016" round="6" url="https://en.wikipedia.org/wiki/2016_Monaco_Grand_Prix">
+    <RaceName>Monaco Grand Prix</RaceName>
+    <Circuit circuitId="monaco" url="http://en.wikipedia.org/wiki/Circuit_de_Monaco">
+      <CircuitName>Circuit de Monaco</CircuitName>
+      <Location lat="43.7347" long="7.42056">
+        <Locality>Monte-Carlo</Locality>
+        <Country>Monaco</Country>
+      </Location>
+    </Circuit>
+    <Date>2016-05-29</Date>
+    <Time>12:00:00Z</Time>
+  </Race>
+  <Race season="2016" round="7" url="https://en.wikipedia.org/wiki/2016_Canadian_Grand_Prix">
+    <RaceName>Canadian Grand Prix</RaceName>
+    <Circuit circuitId="villeneuve" url="http://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve">
+      <CircuitName>Circuit Gilles Villeneuve</CircuitName>
+      <Location lat="45.5" long="-73.5228">
+        <Locality>Montreal</Locality>
+        <Country>Canada</Country>
+      </Location>
+    </Circuit>
+    <Date>2016-06-12</Date>
+    <Time>18:00:00Z</Time>
+  </Race>
+  <Race season="2016" round="8" url="https://en.wikipedia.org/wiki/2016_European_Grand_Prix">
+    <RaceName>European Grand Prix</RaceName>
+    <Circuit circuitId="BAK" url="https://en.wikipedia.org/wiki/Baku_City_Circuit">
+      <CircuitName>Baku City Circuit</CircuitName>
+      <Location lat="40.3725" long="49.8533">
+        <Locality>Baku</Locality>
+        <Country>Azerbaijan</Country>
+      </Location>
+    </Circuit>
+    <Date>2016-06-19</Date>
+    <Time>13:00:00Z</Time>
+  </Race>
+  <Race season="2016" round="9" url="https://en.wikipedia.org/wiki/2016_Austrian_Grand_Prix">
+    <RaceName>Austrian Grand Prix</RaceName>
+    <Circuit circuitId="red_bull_ring" url="http://en.wikipedia.org/wiki/Red_Bull_Ring">
+      <CircuitName>Red Bull Ring</CircuitName>
+      <Location lat="47.2197" long="14.7647">
+        <Locality>Spielburg</Locality>
+        <Country>Austria</Country>
+      </Location>
+    </Circuit>
+    <Date>2016-07-03</Date>
+    <Time>12:00:00Z</Time>
+  </Race>
+  <Race season="2016" round="10" url="https://en.wikipedia.org/wiki/2016_British_Grand_Prix">
+    <RaceName>British Grand Prix</RaceName>
+    <Circuit circuitId="silverstone" url="http://en.wikipedia.org/wiki/Silverstone_Circuit">
+      <CircuitName>Silverstone Circuit</CircuitName>
+      <Location lat="52.0786" long="-1.01694">
+        <Locality>Silverstone</Locality>
+        <Country>UK</Country>
+      </Location>
+    </Circuit>
+    <Date>2016-07-10</Date>
+    <Time>12:00:00Z</Time>
+  </Race>
+  <Race season="2016" round="11" url="https://en.wikipedia.org/wiki/2016_Hungarian_Grand_Prix">
+    <RaceName>Hungarian Grand Prix</RaceName>
+    <Circuit circuitId="hungaroring" url="http://en.wikipedia.org/wiki/Hungaroring">
+      <CircuitName>Hungaroring</CircuitName>
+      <Location lat="47.5789" long="19.2486">
+        <Locality>Budapest</Locality>
+        <Country>Hungary</Country>
+      </Location>
+    </Circuit>
+    <Date>2016-07-24</Date>
+    <Time>12:00:00Z</Time>
+  </Race>
+  <Race season="2016" round="12" url="https://en.wikipedia.org/wiki/2016_German_Grand_Prix">
+    <RaceName>German Grand Prix</RaceName>
+    <Circuit circuitId="hockenheimring" url="http://en.wikipedia.org/wiki/Hockenheimring">
+      <CircuitName>Hockenheimring</CircuitName>
+      <Location lat="49.3278" long="8.56583">
+        <Locality>Hockenheim</Locality>
+        <Country>Germany</Country>
+      </Location>
+    </Circuit>
+    <Date>2016-07-31</Date>
+    <Time>12:00:00Z</Time>
+  </Race>
+  <Race season="2016" round="13" url="https://en.wikipedia.org/wiki/2016_Belgian_Grand_Prix">
+    <RaceName>Belgian Grand Prix</RaceName>
+    <Circuit circuitId="spa" url="http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps">
+      <CircuitName>Circuit de Spa-Francorchamps</CircuitName>
+      <Location lat="50.4372" long="5.97139">
+        <Locality>Spa</Locality>
+        <Country>Belgium</Country>
+      </Location>
+    </Circuit>
+    <Date>2016-08-28</Date>
+    <Time>12:00:00Z</Time>
+  </Race>
+  <Race season="2016" round="14" url="https://en.wikipedia.org/wiki/2016_Italian_Grand_Prix">
+    <RaceName>Italian Grand Prix</RaceName>
+    <Circuit circuitId="monza" url="http://en.wikipedia.org/wiki/Autodromo_Nazionale_Monza">
+      <CircuitName>Autodromo Nazionale di Monza</CircuitName>
+      <Location lat="45.6156" long="9.28111">
+        <Locality>Monza</Locality>
+        <Country>Italy</Country>
+      </Location>
+    </Circuit>
+    <Date>2016-09-04</Date>
+    <Time>12:00:00Z</Time>
+  </Race>
+  <Race season="2016" round="15" url="https://en.wikipedia.org/wiki/2016_Singapore_Grand_Prix">
+    <RaceName>Singapore Grand Prix</RaceName>
+    <Circuit circuitId="marina_bay" url="http://en.wikipedia.org/wiki/Marina_Bay_Street_Circuit">
+      <CircuitName>Marina Bay Street Circuit</CircuitName>
+      <Location lat="1.2914" long="103.864">
+        <Locality>Marina Bay</Locality>
+        <Country>Singapore</Country>
+      </Location>
+    </Circuit>
+    <Date>2016-09-18</Date>
+    <Time>12:00:00Z</Time>
+  </Race>
+  <Race season="2016" round="16" url="https://en.wikipedia.org/wiki/2016_Malaysian_Grand_Prix">
+    <RaceName>Malaysian Grand Prix</RaceName>
+    <Circuit circuitId="sepang" url="http://en.wikipedia.org/wiki/Sepang_International_Circuit">
+      <CircuitName>Sepang International Circuit</CircuitName>
+      <Location lat="2.76083" long="101.738">
+        <Locality>Kuala Lumpur</Locality>
+        <Country>Malaysia</Country>
+      </Location>
+    </Circuit>
+    <Date>2016-10-02</Date>
+    <Time>07:00:00Z</Time>
+  </Race>
+  <Race season="2016" round="17" url="https://en.wikipedia.org/wiki/2016_Japanese_Grand_Prix">
+    <RaceName>Japanese Grand Prix</RaceName>
+    <Circuit circuitId="suzuka" url="http://en.wikipedia.org/wiki/Suzuka_Circuit">
+      <CircuitName>Suzuka Circuit</CircuitName>
+      <Location lat="34.8431" long="136.541">
+        <Locality>Suzuka</Locality>
+        <Country>Japan</Country>
+      </Location>
+    </Circuit>
+    <Date>2016-10-09</Date>
+    <Time>05:00:00Z</Time>
+  </Race>
+  <Race season="2016" round="18" url="https://en.wikipedia.org/wiki/2016_United_States_Grand_Prix">
+    <RaceName>United States Grand Prix</RaceName>
+    <Circuit circuitId="americas" url="http://en.wikipedia.org/wiki/Circuit_of_the_Americas">
+      <CircuitName>Circuit of the Americas</CircuitName>
+      <Location lat="30.1328" long="-97.6411">
+        <Locality>Austin</Locality>
+        <Country>USA</Country>
+      </Location>
+    </Circuit>
+    <Date>2016-10-23</Date>
+    <Time>19:00:00Z</Time>
+  </Race>
+  <Race season="2016" round="19" url="https://en.wikipedia.org/wiki/2016_Mexican_Grand_Prix">
+    <RaceName>Mexican Grand Prix</RaceName>
+    <Circuit circuitId="rodriguez" url="http://en.wikipedia.org/wiki/Autodromo_Hermanos_Rodr%C3%ADguez">
+      <CircuitName>Autódromo Hermanos Rodríguez</CircuitName>
+      <Location lat="19.4042" long="-99.0907">
+        <Locality>Mexico City</Locality>
+        <Country>Mexico</Country>
+      </Location>
+    </Circuit>
+    <Date>2016-10-30</Date>
+    <Time>19:00:00Z</Time>
+  </Race>
+  <Race season="2016" round="20" url="https://en.wikipedia.org/wiki/2016_Brazilian_Grand_Prix">
+    <RaceName>Brazilian Grand Prix</RaceName>
+    <Circuit circuitId="interlagos" url="http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace">
+      <CircuitName>Autódromo José Carlos Pace</CircuitName>
+      <Location lat="-23.7036" long="-46.6997">
+        <Locality>São Paulo</Locality>
+        <Country>Brazil</Country>
+      </Location>
+    </Circuit>
+    <Date>2016-11-13</Date>
+    <Time>16:00:00Z</Time>
+  </Race>
+  <Race season="2016" round="21" url="https://en.wikipedia.org/wiki/2016_Abu_Dhabi_Grand_Prix">
+    <RaceName>Abu Dhabi Grand Prix</RaceName>
+    <Circuit circuitId="yas_marina" url="http://en.wikipedia.org/wiki/Yas_Marina_Circuit">
+      <CircuitName>Yas Marina Circuit</CircuitName>
+      <Location lat="24.4672" long="54.6031">
+        <Locality>Abu Dhabi</Locality>
+        <Country>UAE</Country>
+      </Location>
+    </Circuit>
+    <Date>2016-11-27</Date>
+    <Time>13:00:00Z</Time>
+  </Race>
+</RaceTable>
